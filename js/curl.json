@@ -1,3 +1,24 @@
 {
- "keys": ["9PP7-CVRV-43WH-TLFW-43V4-EJVL-E3XY-9RVTlic", "NNJH-UETF-CF4R-7PWP-CK37-TWLY-KULL-NJ3Xlic", "Bob", "Eve"]
+  "licenses": [
+    {
+      "id": "lic_001",
+      "key": "Bob",
+      "customer": "Acme Corp",
+      "email": "contact@acmecorp.com",
+      "plan": "enterprise",
+      "status": "active",
+      "issuedAt": "2024-03-15",
+      "expiresAt": "2025-03-15"
+    },
+    {
+      "id": "lic_002",
+      "key": "aaaa-bbbb-cccc-dddd",
+      "customer": "Tech Solutions Inc",
+      "email": "admin@techsolutions.com",
+      "plan": "professional",
+      "status": "active",
+      "issuedAt": "2024-02-01",
+      "expiresAt": "2025-02-01"
+    }
+  ]
 }
