@@ -1,7 +1,7 @@
 {
   "licenses": [
     {
-      "id": "lic_001",
+      "id": "Bob",
       "key": "xxxx-yyyy-zzzz-aaaa",
       "customer": "Acme Corp",
       "email": "contact@acmecorp.com",
@@ -12,7 +12,7 @@
     },
     {
       "id": "lic_002",
-      "key": "Bob",
+      "key": "Boab",
       "customer": "Tech Solutions Inc",
       "email": "admin@techsolutions.com",
       "plan": "professional",
