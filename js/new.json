@@ -2,7 +2,7 @@
   "licenses": [
     {
       "id": "Bob",
-      "key": "xxxx-yyyy-zzzz-aaaa",
+      "key": "Bob",
       "customer": "Acme Corp",
       "email": "contact@acmecorp.com",
       "plan": "enterprise",
