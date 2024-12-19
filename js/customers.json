@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": "cust_001",
+      "name": "John Smith",
+      "email": "john@acmecorp.com",
+      "company": "Acme Corp",
+      "totalLicenses": 5,
+      "activeLicenses": 3,
+      "status": "active",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "cust_002",
+      "name": "Sarah Johnson",
+      "email": "sarah@techsolutions.com",
+      "company": "Tech Solutions Inc",
+      "totalLicenses": 10,
+      "activeLicenses": 8,
+      "status": "active",
+      "createdAt": "2024-02-01"
+    }
+  ]
+}
